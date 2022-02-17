@@ -1,4 +1,5 @@
-# Task4-Programming-Paradigm
+## Task4-Programming-Paradigm
+# Imperative PLs
 Ruby Brief History <br />
 Ruby code Compute the sum of numbers <br />
 Flowchart on it <br />
@@ -19,6 +20,7 @@ Java code Compute the sum of numbers <br />
 Java Compute the average of numbers <br />
 Java List the numbers less than 10<br />
 
+# Decleratice PLs
 Haskell Brief History <br />
 Haskell code Compute the sum of numbers <br />
 Haskell Compute the average of numbers <br />
