@@ -12,6 +12,7 @@ Average = Sum / Count  <br />
 = 144 / 7  <br />
 = 20.571428571429 <br />
  <br />
+ <br />
 Ruby Compute the average of numbers <br />
 Ruby List the numbers less than 10<br />
 
